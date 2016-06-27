@@ -2,7 +2,7 @@
 
 # reactList
 
-it's a real sweet app
+A simple web app practice making lists as React components.
 
 ## how
 
